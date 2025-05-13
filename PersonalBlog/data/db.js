@@ -48,7 +48,7 @@ const posts = [
 ];
 
 module.exports = { 
-    posts,
-    appURL,
-    appPort
-};
+  posts,
+  appPort, 
+  appURL
+}
